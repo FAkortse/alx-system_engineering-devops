@@ -1,1 +1,1 @@
-script 1 my first Hello, World
+Script 2 a confused smiley
