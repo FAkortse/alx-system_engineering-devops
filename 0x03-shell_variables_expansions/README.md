@@ -1,1 +1,1 @@
-Script 1 my first alias
+0x03. Shell, init files, variables and expansions
